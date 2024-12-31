@@ -29,4 +29,5 @@ To get started, clone this repository and install the dependencies:
 ```bash
 git clone https://github.com/your-username/weather-dashboard.git
 cd weather-dashboard
+
 npm install
